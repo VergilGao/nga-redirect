@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         NGA网址重定向
-// @description  重定向NGA玩家社区的各种不同域名的网址到 bbs.nga.cn
+// @description  重定向NGA玩家社区的各种不同域名的网址到设定的地址
 // @updateURL       https://raw.githubusercontent.com/VergilGao/nga-redirect/master/nga-redirect.user.js
 // @downloadURL     https://raw.githubusercontent.com/VergilGao/nga-redirect/master/nga-redirect.user.js
 // @version      1.2.0
