@@ -1,5 +1,10 @@
 # nga-redirect
-重定向NGA玩家社区的各种不同域名的网址到 bbs.nga.cn
+重定向NGA玩家社区的各种不同域名的网址到指定的网址
+目前支持
+
+- bbs.nga.cn
+- nga.178.com
+- ngabbs.com
 
 ## 安装
 
